@@ -1,5 +1,5 @@
 {
-    "name": "your-name-here/fraud",
+    "name": "svenbuis/cakephp-fraud-plugin",
     "description": "Fraud plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
